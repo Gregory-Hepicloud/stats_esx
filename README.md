@@ -1,5 +1,5 @@
 # stats_esx remake of https://github.com/Newtonzz/PassionRP-Public/tree/master/Stats by Newtonzz
-/
+
 Put in your server and start :
 
 Requirements :
