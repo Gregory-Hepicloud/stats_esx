@@ -2,5 +2,12 @@
 /
 Put in your server and start :
 
-ensure esx_policejob (for get firstname and other informations)
-ensure esx_stats ( stats)
+Requirements :
+esx_policejob - https://github.com/esx-framework/esx_policejob (to get the first name and other information)
+
+```
+ensure esx_policejob
+ensure esx_stats
+```
+
+Import stats.sql in your database
