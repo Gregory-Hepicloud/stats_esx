@@ -7,8 +7,8 @@ description 'Stats for esx'
 
 version '1.0'
 
-client_script 'cl_stats.lua'
+client_script 'client/cl_stats.lua'
 
 server_scripts {
-    'sv_stats.lua' 
+    'server/sv_stats.lua' 
 }
