@@ -3,9 +3,11 @@
 Put in your server and start :
 
 Requirements :
+mysql-async - https://github.com/ESX-Brasil/mysql-async
 esx_policejob - https://github.com/esx-framework/esx_policejob (to get the first name and other information)
 
 ```
+ensure mysql-async
 ensure esx_policejob
 ensure esx_stats
 ```
