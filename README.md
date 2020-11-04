@@ -5,10 +5,12 @@ Put in your server and start :
 Requirements :
 
 mysql-async - https://github.com/ESX-Brasil/mysql-async
+esx_identity - https://github.com/esx-framework/esx_identity
 esx_policejob - https://github.com/esx-framework/esx_policejob (to get the first name and other information)
 
 ```
 ensure mysql-async
+ensure esx_identity
 ensure esx_policejob
 ensure esx_stats
 ```
