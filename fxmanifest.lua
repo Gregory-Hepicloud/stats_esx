@@ -10,5 +10,6 @@ version '1.0'
 client_script 'client/cl_stats.lua'
 
 server_scripts {
+    '@mysql-async/lib/MySQL.lua',
     'server/sv_stats.lua' 
 }
